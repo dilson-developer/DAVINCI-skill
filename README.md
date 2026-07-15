@@ -1,3 +1,5 @@
+![Texto Alternativo](assets/preview.png)
+
 # DAVINCI
 
 > Uma skill de design para vibecoders. DAVINCI transforma um pedido simples ("cria a landing page do meu SaaS") num briefing de design rico e estruturado, pronto para ser executado por qualquer agente de código — Claude Code, Cursor, ou outro.
